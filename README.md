@@ -31,3 +31,8 @@ The following assumes the use of `node@>=10`.
 `yarn migrate_bsc`
 
 NOTE: You need to replance operator address, mnemonics, dev_address and fee_setter_address with your own ones when to deploy to blockchain.
+
+### BSCTESTNET
+
+ - FactoryContract - https://testnet.bscscan.com/address/0xd509dabf932b17a2b8ba93bb6b12382c59063fcd#code
+
